@@ -45,35 +45,3 @@ Uploads accept readable regular files. Directories and the parent-directory
 entry cannot be uploaded. Directory navigation and creating a remote directory
 are still available. Use the Upload button for transfers; drag/drop and clipboard
 upload are unavailable in this version.
-
-## Team information
-
-- Enter your team name and team member information below
-
----
-
-**Team Name**
-- Name:
-
----
-**Team Member #1**
-1. Team member name:  
-2. Your rose-hulman.edu userid: 
-3. Your github userid: 
-
-**Team Member #2**
-1. Team member name:  
-2. Your rose-hulman.edu userid: 
-3. Your github userid: 
-
-**Team Member #3**
-1. Team member name:  
-2. Your rose-hulman.edu userid: 
-3. Your github userid: 
-
-**Team Member #4**
-1. Team member name:  
-2. Your rose-hulman.edu userid: 
-3. Your github userid: 
-
-Add additional team member info lines if you have more than 4 on your team
